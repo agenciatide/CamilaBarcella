@@ -140,7 +140,6 @@ html {
   .row-menu {
     display: flex;
     justify-content: space-between;
-    padding: 20px 0;
   }
 
   .p-subtitle{
@@ -294,7 +293,7 @@ body, textarea, input {
 
 /* CORES */
 .topbar-color{
-  background-color: #5B585B;
+  background-color: #17223b;
 }
 
 .menu-color{
@@ -334,7 +333,7 @@ h2 {
 
 h3, h4 {
   font-weight: 500;
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin: 1em 0;
   color: #383838;
 }
@@ -373,7 +372,7 @@ h3, h4 {
 }
 
 .button-grey{ 
-  background-color: #5B585B;
+  background-color: #17223b;
   border: none;
   color: #fff;
   text-transform: uppercase;
@@ -384,7 +383,7 @@ h3, h4 {
 }
 
 .button-grey:hover{
-  background-color: #5B585B;
+  background-color: #17223b;
 }
 
 
@@ -420,7 +419,7 @@ h3, h4 {
 
 /* MENU */
 .row-menu img {
-  width: 80px;
+  width: 130px;
   min-height: 60px;
 }
 
@@ -448,7 +447,7 @@ h3, h4 {
 
 /* SLIDE */
 .slide-products {
-  padding: 80px 0;
+  padding: 45px 0;
 }
 
 .row-title{
@@ -462,7 +461,8 @@ h3, h4 {
 
 /* CHAMADA WHATS */
 .grey-contact {
-  background: #5B585B;
+  background: #17223b;
+  padding: 15px 0;
 }
 
 .grey-contact h3 {
@@ -472,7 +472,7 @@ h3, h4 {
 
 /* SOBRE NOS */
 .about-us{
-  padding: 80px 0;
+  padding: 80px 0 120px 0;
 }
 
 .column-about-us img{
@@ -567,7 +567,7 @@ form {
 
 /* FOOTER */
 .section-footer{
-  background-color: #5B585B;
+  background-color: #17223b;
   padding: 20px 0;
 }
 
@@ -619,6 +619,7 @@ form {
 
 .slide-item img{
   width: 100%;
+  min-height: 13em;
 }
 
 .slick-prev, .slick-next {
@@ -678,7 +679,7 @@ form {
 /* bottom bar */
 
 .bottom-bar{
-  background-color: #383838 !important;
+  background-color: #0c1833 !important;
 }
 
 .row-bottom-bar {
